@@ -1,3 +1,7 @@
+
+// log
+console.log('wangk', 'test')
+
 @Entry
 @Component
 struct Index {
